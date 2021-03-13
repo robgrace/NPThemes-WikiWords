@@ -2,7 +2,7 @@
 ## This is a custom theme for the awesome Mac and iOS app called "NotePlan" by Eduard Metzger.  The theme is based on the "Toothbleach" theme provided with NotePlan. 
 It's only added feature is to "Wikify" any words that are in BumpyCase, in the style of the Wikis of pre-Markdown days.
 
-<img src="./WikiWords-Screenshot.png" data-canonical-src="./WikiWords-Screenshot.png" width=350 />
+<img src="./WikiWords-Screenshot.png" data-canonical-src="./WikiWords-Screenshot.png" width="350" />
                                                                                                 
 ## Method
 It turns out that any string matched by the designated regular expression assigned in the theme, can use that matched text as a note target.  THen, we simply send it through the NotePlan x-url-callback, which is the same mechanism that the primary [[Note]] links use.  The only difference is that these WikiWord notes will not show up as "backlinks" in the reference section of the target note.  
