@@ -1,5 +1,7 @@
 # NPThemes-WikiWords
-## This is a custom theme for the awesome Mac and iOS app called "NotePlan" by Eduard Metzger.  The theme is based on the "Toothbleach" theme provided with NotePlan. 
+
+## Overview
+This is a custom theme for the awesome Mac and iOS app called "NotePlan" by Eduard Metzger.  The theme is based on the "Toothbleach" theme provided with NotePlan. 
 It's only added feature is to "Wikify" any words that are in BumpyCase, in the style of the Wikis of pre-Markdown days.
 
 <img src="./WikiWords-Screenshot.png" data-canonical-src="./WikiWords-Screenshot.png" width="350" />
