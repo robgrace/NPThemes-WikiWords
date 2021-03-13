@@ -7,7 +7,7 @@ It's only added feature is to "Wikify" any words that are in BumpyCase, in the s
 <img src="./WikiWords-Screenshot.png" data-canonical-src="./WikiWords-Screenshot.png" width="350" />
                                                                                                 
 ## Method
-It turns out that any string matched by the designated regular expression assigned in the theme, can use that matched text as a note target.  THen, we simply send it through the NotePlan x-url-callback, which is the same mechanism that the primary [[Note]] links use.  The only difference is that these WikiWord notes will not show up as "backlinks" in the reference section of the target note.  
+It turns out that any string matched by the designated regular expression assigned in the theme, can use that matched text as a note target.  Then, we simply send it through the NotePlan x-url-callback, which is the same mechanism that the primary [[Note]] links use.  The only difference is that these WikiWord notes will not show up as "backlinks" in the reference section of the target note.  
 
 ## Motivation
 There are a couple of reasons why we might want to use WikiWords in addition to the existing [[link]] syntax:
